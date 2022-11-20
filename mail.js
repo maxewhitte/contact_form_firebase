@@ -1,5 +1,12 @@
 const firebaseConfig = {
-  //   copy your firebase config informations
+  apiKey: "AIzaSyC4mMpsojdgtr_S9zJT1wtzaR_Ha_YF3do",
+  authDomain: "sustainable-cities-project.firebaseapp.com",
+  databaseURL: "https://sustainable-cities-project-default-rtdb.firebaseio.com",
+  projectId: "sustainable-cities-project",
+  storageBucket: "sustainable-cities-project.appspot.com",
+  messagingSenderId: "805402742329",
+  appId: "1:805402742329:web:95093290f1ce63047f87e8",
+  measurementId: "G-BDJTN1458R"
 };
 
 // initialize firebase
